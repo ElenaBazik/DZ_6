@@ -1,0 +1,14 @@
+table{
+	border-collapse:collapse;
+	width:600px;
+	font-family:Arial,Tahoma,Sans-Serif;
+}
+th,td{
+	border:1px solid #000;
+}
+th,td,tr{
+	padding:10px 10px;
+	text-align: center;
+}
+.drink {text-align:left;}
+

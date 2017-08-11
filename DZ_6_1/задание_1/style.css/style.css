@@ -1,0 +1,18 @@
+.one{
+background-color: green;
+}
+.one:hover{
+background-color: yellow;
+}
+.one:active{
+background-color: red;
+}
+.two{
+background-color:purple;
+}
+.two:hover{
+background-color:gold;
+}
+.two:active{
+background-color:brown;
+}
